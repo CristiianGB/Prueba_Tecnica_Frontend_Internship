@@ -12,4 +12,4 @@
 <p>Existe un Readme propio en el cual explico en más detalle el funcionamiento del proyecto</p>
 <hr>
 <h2>Fizz Buzz:</h2>
-<p>Simple uso de lógica para desempeñar la función que pedía la prueba ( el código está documentado para explicar paso a paso la función ).</p>
+<p>Simple uso de lógica para desempeñar la función que pedía la prueba ( código documentado para explicar paso a paso la función ).</p>
