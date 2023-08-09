@@ -6,3 +6,5 @@ Ej `function fizzBuzz(numbers)`
 Y esa función debe hacer un console de `Fizz` por cada número múltiplo
 de 3, `Buzz` por cada múltiplo de 5 y cuando sea múltiplo de ambos
 `FizzBuzz`
+
+( node index.js desde la carpeta "fizz-buzz")
