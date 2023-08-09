@@ -72,22 +72,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Descripción prueba 
 
 <h5>React Cats</h5>
-Esta prueba consiste en crear una aplicación básica de React a tu gusto puedes
+<p>Esta prueba consiste en crear una aplicación básica de React a tu gusto puedes
 hacerlo en el mismo componente App o crear componentes para cada parte,
-cuanto más organizado y estructurado esté todo mejor.
-Requisitos:
- -Debes de hacer una petición a este url https://api.thecatapi.com/v1/images/search
- -Verás que devuelve un objeto JSON cada vez que la consultas ese
+cuanto más organizado y estructurado esté todo mejor.</p>
+<br>
+<ul>Requisitos:
+ <li>Debes de hacer una petición a este url https://api.thecatapi.com/v1/images/search</li>
+ <li>Verás que devuelve un objeto JSON cada vez que la consultas ese
  objeto JSON contiene una url de imagen de un gato, cada vez que la
- consultas devuelve un objeto nuevo con una imagen nueva
- -La idea es que hecha la petición conserves lo que te devuelve en el
+ consultas devuelve un objeto nuevo con una imagen nueva</li>
+ <li>La idea es que hecha la petición conserves lo que te devuelve en el
  estado de React y pintes una imagen pasándole la url que has
- obtenido de la API como `src` a la imagen
-Es un extra:
- -Componetizar y estructurar bien el proyecto y código
- -Que la aplicación sea bonita (puedes maquetar)
-Para la entrega puedes entregarlo en un repositorio git que hagas para esto y
-mandarme la url del repo para revisarlo :)
+ obtenido de la API como `src` a la imagen</li>
+</ul>
+<ul>Es un extra:
+ <li>Componetizar y estructurar bien el proyecto y código</li>
+ <li>Que la aplicación sea bonita (puedes maquetar)</li>
+ </ul>
+<p>Para la entrega puedes entregarlo en un repositorio git que hagas para esto y
+mandarme la url del repo para revisarlo :)</p>
 
 <h5>FizzBuzz</h5>
 Esta prueba es algo más sencilla es para ver tu razonamiento lógico
