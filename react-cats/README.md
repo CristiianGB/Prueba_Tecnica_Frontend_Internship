@@ -22,6 +22,7 @@ cuanto más organizado y estructurado esté todo mejor.</p>
 
 # para montar el proyecto:
 - cd react-cats
+- npm install
 - npm start
 
 #documentación react:
