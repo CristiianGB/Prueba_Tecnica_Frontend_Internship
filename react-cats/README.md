@@ -1,3 +1,30 @@
+## Descripción prueba 
+
+<h5>React Cats</h5>
+<p>Esta prueba consiste en crear una aplicación básica de React a tu gusto puedes
+hacerlo en el mismo componente App o crear componentes para cada parte,
+cuanto más organizado y estructurado esté todo mejor.</p>
+<br>
+<ul>Requisitos:
+ <li>Debes de hacer una petición a este url https://api.thecatapi.com/v1/images/search</li>
+ <li>Verás que devuelve un objeto JSON cada vez que la consultas ese
+ objeto JSON contiene una url de imagen de un gato, cada vez que la
+ consultas devuelve un objeto nuevo con una imagen nueva</li>
+ <li>La idea es que hecha la petición conserves lo que te devuelve en el
+ estado de React y pintes una imagen pasándole la url que has
+ obtenido de la API como `src` a la imagen</li>
+</ul>
+<ul>Es un extra:
+ <li>Componetizar y estructurar bien el proyecto y código</li>
+ <li>Que la aplicación sea bonita (puedes maquetar)</li>
+ </ul>
+
+
+# para montar el proyecto:
+- cd react-cats
+- npm start
+
+#documentación react:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,23 +96,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Descripción prueba 
-
-<h5>React Cats</h5>
-<p>Esta prueba consiste en crear una aplicación básica de React a tu gusto puedes
-hacerlo en el mismo componente App o crear componentes para cada parte,
-cuanto más organizado y estructurado esté todo mejor.</p>
-<br>
-<ul>Requisitos:
- <li>Debes de hacer una petición a este url https://api.thecatapi.com/v1/images/search</li>
- <li>Verás que devuelve un objeto JSON cada vez que la consultas ese
- objeto JSON contiene una url de imagen de un gato, cada vez que la
- consultas devuelve un objeto nuevo con una imagen nueva</li>
- <li>La idea es que hecha la petición conserves lo que te devuelve en el
- estado de React y pintes una imagen pasándole la url que has
- obtenido de la API como `src` a la imagen</li>
-</ul>
-<ul>Es un extra:
- <li>Componetizar y estructurar bien el proyecto y código</li>
- <li>Que la aplicación sea bonita (puedes maquetar)</li>
- </ul>
